@@ -1,8 +1,8 @@
 {
-    "node_uuid": "node_uuid_playlist_1",
-    "playlist_id": "playlist_1",
     "playlist_list": [
         {
+            "node_uuid": "node_uuid_playlist_1",
+            "playlist_id": "playlist_1",
             "playlist_content": [
                 {
                     "type": "Minilist",
