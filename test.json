@@ -106,55 +106,7 @@
                                         }
                                     }
                                 }
-                            },
-                            {
-                                "type": "Minilist",
-                                "data": {
-                                    "node_uuid": "node_uuid_miniList2",
-                                    "minilist_id": "miniList2",
-                                    "minilist_content_type": "intersession",
-                                    "minilist_content": [
-                                        {
-                                            "type": "Playitem",
-                                            "data": {
-                                                "type": "poem",
-                                                "data": {
-                                                    "item_record_id": "record3",
-                                                    "node_uuid": "uuid3",
-                                                    "poem_content_fontfamily": "Courier",
-                                                    "poem_content_fontsize": 14.0,
-                                                    "poem_author_fontfamily": "Georgia",
-                                                    "poem_author_fontsize": 10.0,
-                                                    "background_url": "https://example.com/bg1",
-                                                    "poem_display_style": "landscape_center",
-                                                    "display_duration": 3.0,
-                                                    "poem": {
-                                                        "element_id": "poem2",
-                                                        "poem_content": "Two roads diverged in a yellow wood, And sorry I could not travel both...",
-                                                        "poem_author": "Robert Frost"
-                                                    }
-                                                }
-                                            }
-                                        },
-                                        {
-                                            "type": "Playitem",
-                                            "data": {
-                                                "type": "gif",
-                                                "data": {
-                                                    "item_record_id": "gif_record3",
-                                                    "node_uuid": "gif_uuid3",
-                                                    "display_duration": 5.0,
-                                                    "gif": {
-                                                        "element_id": "gif_22",
-                                                        "gif_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQxNWplOHlpb3R2N3FpcXk3MHUzd2NtaDJ0a3VrbTh1ZDJram1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DaHY0oBKfyonubYE0J/giphy.gif"
-                                                    }
-                                                }
-                                            }
-                                        }
-                                    ]
-                                }
                             }
-                            
                         ]
                     }
                 },
@@ -197,6 +149,53 @@
                         },
                         "duration": 15.0,
                         "display_order": "shuffle_loop"
+                    }
+                },
+                {
+                    "type": "Minilist",
+                    "data": {
+                        "node_uuid": "node_uuid_miniList2",
+                        "minilist_id": "miniList2",
+                        "minilist_content_type": "intersession",
+                        "minilist_content": [
+                            {
+                                "type": "Playitem",
+                                "data": {
+                                    "type": "poem",
+                                    "data": {
+                                        "item_record_id": "record3",
+                                        "node_uuid": "uuid3",
+                                        "poem_content_fontfamily": "Courier",
+                                        "poem_content_fontsize": 14.0,
+                                        "poem_author_fontfamily": "Georgia",
+                                        "poem_author_fontsize": 10.0,
+                                        "background_url": "https://example.com/bg1",
+                                        "poem_display_style": "landscape_center",
+                                        "display_duration": 3.0,
+                                        "poem": {
+                                            "element_id": "poem2",
+                                            "poem_content": "Two roads diverged in a yellow wood, And sorry I could not travel both...",
+                                            "poem_author": "Robert Frost"
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "type": "Playitem",
+                                "data": {
+                                    "type": "gif",
+                                    "data": {
+                                        "item_record_id": "gif_record3",
+                                        "node_uuid": "gif_uuid3",
+                                        "display_duration": 5.0,
+                                        "gif": {
+                                            "element_id": "gif_22",
+                                            "gif_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQxNWplOHlpb3R2N3FpcXk3MHUzd2NtaDJ0a3VrbTh1ZDJram1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DaHY0oBKfyonubYE0J/giphy.gif"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
                     }
                 },
                 {
