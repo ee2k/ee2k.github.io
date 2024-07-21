@@ -121,7 +121,7 @@
                                 }
                             }
                         ],
-                        "background_music": {
+                        "music": {
                             "node_status": "open",
                             "node_uuid": "uuid5",
                             "item_play_id": "play1",
@@ -197,7 +197,7 @@
                                 }
                             }
                         ],
-                        "background_music": {
+                        "music": {
                             "node_status": "open",
                             "node_uuid": "uuid7",
                             "item_play_id": "play2",
