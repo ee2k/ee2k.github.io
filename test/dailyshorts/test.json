@@ -68,7 +68,7 @@
                                     "node_uuid": "uuid1",
                                     "film": {
                                         "element_id": "film1",
-                                        "film_url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+                                        "film_url": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4"
                                     },
                                     "display_duration": 6.5
                                 }
