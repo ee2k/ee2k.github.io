@@ -31,6 +31,18 @@
                                 }
                             },
                             {
+                                "type": "gif",
+                                "data": {
+                                    "item_record_id": "gif_record3",
+                                    "node_uuid": "gif_uuid3",
+                                    "display_duration": 5.0,
+                                    "gif": {
+                                        "element_id": "gif_22",
+                                        "gif_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQxNWplOHlpb3R2N3FpcXk3MHUzd2NtaDJ0a3VrbTh1ZDJram1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DaHY0oBKfyonubYE0J/giphy.gif"
+                                    }
+                                }
+                            },
+                            {
                                 "type": "film",
                                 "data": {
                                     "item_record_id": "record1",
