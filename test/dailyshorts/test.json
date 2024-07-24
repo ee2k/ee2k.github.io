@@ -31,6 +31,18 @@
                                 }
                             },
                             {
+                                "type": "film",
+                                "data": {
+                                    "item_record_id": "record1",
+                                    "node_uuid": "uuid1",
+                                    "film": {
+                                        "element_id": "film1",
+                                        "film_url": "https://huo2k.github.io/test/dailyshorts/crab.mp4"
+                                    },
+                                    "display_duration": 6.5
+                                }
+                            },
+                            {
                                 "type": "visualeffect",
                                 "data": {
                                     "item_record_id": "record5",
@@ -78,18 +90,6 @@
                                         "poem_content": "Stray birds of summer come to my window to sing and fly away.\\n\\nAnd yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.",
                                         "poem_author": "Rabindranath Tagore"
                                     }
-                                }
-                            },
-                            {
-                                "type": "film",
-                                "data": {
-                                    "item_record_id": "record1",
-                                    "node_uuid": "uuid1",
-                                    "film": {
-                                        "element_id": "film1",
-                                        "film_url": "https://huo2k.github.io/test/dailyshorts/crab.mp4"
-                                    },
-                                    "display_duration": 6.5
                                 }
                             },
                             {
