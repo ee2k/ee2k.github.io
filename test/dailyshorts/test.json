@@ -12,6 +12,25 @@
                         "minilist_content_type": "short_film",
                         "minilist_content": [
                             {
+                                "type": "poem",
+                                "data": {
+                                    "item_record_id": "record01",
+                                    "node_uuid": "uuid3",
+                                    "poem_content_fontfamily": "Courier",
+                                    "poem_content_fontsize": 14.0,
+                                    "poem_author_fontfamily": "Georgia",
+                                    "poem_author_fontsize": 10.0,
+                                    "background_url": "https://example.com/bg1",
+                                    "poem_display_style": "landscape_corner",
+                                    "display_duration": 3.0,
+                                    "poem": {
+                                        "element_id": "poem001",
+                                        "poem_content": "Men are so necessarily mad, that not to be mad would amount to another form of madness.",
+                                        "poem_author": "Blaise Pascal"
+                                    }
+                                }
+                            },
+                            {
                                 "type": "visualeffect",
                                 "data": {
                                     "item_record_id": "record5",
