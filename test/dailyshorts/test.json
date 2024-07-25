@@ -16,8 +16,9 @@
                                 "data": {
                                     "item_record_id": "record01",
                                     "node_uuid": "uuid3",
-                                    "poem_content_fontfamily": "Courier",
-                                    "poem_content_fontsize": 14.0,
+                                    "poem_text_fontfamily": "Courier",
+                                    "poem_text_fontsize": 14.0,
+                                    "poem_text_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
                                     "background_picture": {
@@ -30,7 +31,7 @@
                                     "display_duration": 3.0,
                                     "poem": {
                                         "element_id": "poem001",
-                                        "poem_content": "Men are so necessarily mad, that not to be mad would amount to another form of madness.",
+                                        "poem_text": "Men are so necessarily mad, that not to be mad would amount to another form of madness.",
                                         "poem_author": "Blaise Pascal"
                                     }
                                 }
@@ -116,8 +117,8 @@
                                 "data": {
                                     "item_record_id": "record3",
                                     "node_uuid": "uuid3",
-                                    "poem_content_fontfamily": "Courier",
-                                    "poem_content_fontsize": 14.0,
+                                    "poem_text_fontfamily": "Courier",
+                                    "poem_text_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
                                     "background_picture": {
@@ -130,7 +131,7 @@
                                     "display_duration": 3.0,
                                     "poem": {
                                         "element_id": "poem1",
-                                        "poem_content": "Stray birds of summer come to my window to sing and fly away.\\n\\nAnd yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.",
+                                        "poem_text": "Stray birds of summer come to my window to sing and fly away.\\n\\nAnd yellow leaves of autumn, which have no songs, flutter and fall there with a sigh.",
                                         "poem_author": "Rabindranath Tagore"
                                     }
                                 }
@@ -169,8 +170,8 @@
                                 "data": {
                                     "item_record_id": "record3",
                                     "node_uuid": "uuid3",
-                                    "poem_content_fontfamily": "Courier",
-                                    "poem_content_fontsize": 14.0,
+                                    "poem_text_fontfamily": "Courier",
+                                    "poem_text_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
                                     "background_picture": {
@@ -183,7 +184,7 @@
                                     "display_duration": 3.0,
                                     "poem": {
                                         "element_id": "poem2",
-                                        "poem_content": "Two roads diverged in a yellow wood, And sorry I could not travel both...",
+                                        "poem_text": "Two roads diverged in a yellow wood, And sorry I could not travel both...",
                                         "poem_author": "Robert Frost"
                                     }
                                 }
