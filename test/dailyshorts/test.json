@@ -20,7 +20,12 @@
                                     "poem_content_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
-                                    "background_url": "https://example.com/bg1",
+                                    "background_picture": {
+                                        "element_id": "painting39",
+                                        "painting_url": "https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2Fnature.2015.17345/MediaObjects/41586_2015_Article_BFnature201517345_Figa_HTML.jpg",
+                                        "painting_name": "",
+                                        "painting_info": ""
+                                    },
                                     "poem_display_style": "landscape_corner",
                                     "display_duration": 3.0,
                                     "poem": {
@@ -115,7 +120,6 @@
                                     "poem_content_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
-                                    "background_url": "https://example.com/bg1",
                                     "poem_display_style": "landscape_corner",
                                     "display_duration": 3.0,
                                     "poem": {
@@ -163,7 +167,12 @@
                                     "poem_content_fontsize": 14.0,
                                     "poem_author_fontfamily": "Georgia",
                                     "poem_author_fontsize": 10.0,
-                                    "background_url": "https://example.com/bg1",
+                                    "background_picture": {
+                                        "element_id": "painting39",
+                                        "painting_url": "https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2Fnature.2015.17345/MediaObjects/41586_2015_Article_BFnature201517345_Figa_HTML.jpg",
+                                        "painting_name": "",
+                                        "painting_info": ""
+                                    },
                                     "poem_display_style": "landscape_center",
                                     "display_duration": 3.0,
                                     "poem": {
