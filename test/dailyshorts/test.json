@@ -8,6 +8,17 @@
                     "node_uuid": "node_uuid_miniList1",
                     "minilist_id": "miniList1",
                     "minilist_content_type": "short_film",
+                    "music": {
+                        "node_uuid": "uuid5",
+                        "item_play_id": "play1",
+                        "music": {
+                            "element_id": "music1",
+                            "music_url": "https://huo2k.github.io/test/dailyshorts/audio/1%20minute%20Relaxing,1%20minute%20calm%20down.mp3",
+                            "music_name": "1 minute Relaxing,1 minute calm down",
+                            "music_info": ""
+                        },
+                        "music_duration": 8.0
+                    },
                     "minilist_content": [
                         {
                             "type": "poem",
