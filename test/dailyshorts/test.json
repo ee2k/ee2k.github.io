@@ -17,6 +17,7 @@
                             "music_name": "after grown up",
                             "music_info": ""
                         },
+                        "music_delay": 12,
                         "music_duration": 20.0
                     },
                     "minilist_content": [
