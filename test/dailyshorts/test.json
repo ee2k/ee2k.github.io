@@ -7,7 +7,7 @@
                 {
                     "node_uuid": "node_uuid_miniList1",
                     "minilist_id": "miniList1",
-                    "minilist_content_type": "short_film",
+                    "minilist_content_type": "film",
                     "music": {
                         "node_uuid": "uuid5",
                         "item_play_id": "play1",
@@ -19,6 +19,10 @@
                         },
                         "music_delay": 12,
                         "music_duration": 20.0
+                    },
+                    "dynamic_info": {
+                        "display_order": "loop",
+                        "duration": 117
                     },
                     "minilist_content": [
                         {
