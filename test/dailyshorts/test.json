@@ -17,10 +17,9 @@
                             "music_name": "after grown up",
                             "music_info": ""
                         },
-                        "music_delay": 12,
-                        "music_duration": 20.0
+                        "music_delay": 8
                     },
-                    "dynamic_info": {
+                    "loop_setting": {
                         "display_order": "loop",
                         "duration": 117
                     },
