@@ -1,25 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>My Test Page</title>
     <style>
         body {
-            margin: 0;
-            padding: 0;
+            margin: 0; /* Removes default margin */
+            padding: 0; /* Removes default padding */
+            background-color: #121212;
             background: radial-gradient(circle, #333333 0%, #000000 100%);
-            color: #B0B0B0;
-            font-family: Arial, sans-serif;
+            color: #B0B0B0; /* Gray text */
+            font-family: Arial, sans-serif; /* Set a default font */
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh;
-            padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
-            box-sizing: border-box;
+            min-height: 100vh; /* Full viewport height */
+            padding-top: env(safe-area-inset-top); /* Adjust top padding for the safe area */
+            padding-bottom: env(safe-area-inset-bottom); /* Adjust bottom padding for the safe area */
         }
         h1 {
             font-size: 4em;
-            text-align: center;
         }
     </style>
 </head>
