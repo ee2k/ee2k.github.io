@@ -1,20 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>My Test Page</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>My Test Page</title>
     <style>
-        body {
-            margin: 0; /* Removes default margin */
-            background: radial-gradient(circle, #333333 0%, #000000 100%); /* Dark radial gradient */
-            color: white; /* Sets text color to white for better visibility */
-            font-family: Arial, sans-serif; /* Set a default font */
+        html, body {
+            width: 100%; /* Ensure the html and body elements fill the viewport */
+            height: 100%; /* Ensure the html and body elements fill the viewport */
+            margin: 0;
+            padding: 0;
+            background: radial-gradient(circle, #333333 0%, #000000 100%);
             display: flex;
             justify-content: center;
             align-items: center;
-            min-height: 100vh; /* Full viewport height */
-            min-height: -webkit-fill-available; /* Full height for iOS */
-            padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); /* Adjust padding for the safe area */
+            color: white;
+            font-family: 'Arial', sans-serif;
+        }
+
+        /* Apply the padding to accommodate the safe area */
+        body {
+            padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
         }
     </style>
 </head>
