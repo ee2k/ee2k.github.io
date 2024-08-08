@@ -4,18 +4,21 @@
     <title>My Test Page</title>
     <style>
         body {
-            height: 100vh; /* Full viewport height */
-            margin: 0; /* Remove default margin */
-            background: radial-gradient(circle, #333333 0%, #000000 100%);
-            color: white; /* White text */
+            margin: 0; /* Removes default margin */
+            padding: 0; /* Removes default padding */
+            background-color: #121212; /* Dark background */
+            color: #B0B0B0; /* Gray text */
+            font-family: Arial, sans-serif; /* Set a default font */
             display: flex;
             justify-content: center;
             align-items: center;
-            font-family: Arial, sans-serif;
+            min-height: 100vh; /* Full viewport height */
+            padding-top: env(safe-area-inset-top); /* Adjust top padding for the safe area */
+            padding-bottom: env(safe-area-inset-bottom); /* Adjust bottom padding for the safe area */
         }
 
         h1 {
-            font-size: 2em;
+            font-size: 4em;
         }
     </style>
 </head>
