@@ -13,7 +13,7 @@
                         "item_play_id": "play1",
                         "music": {
                             "element_id": "music1",
-                            "music_url": "https://marmotech.github.io/test/dailyshorts/audio/after%20grown%20up.m4a",
+                            "music_url": "https://hcc2k.github.io/test/dailyshorts/audio/after%20grown%20up.m4a",
                             "music_name": "after grown up",
                             "music_info": ""
                         },
@@ -78,7 +78,8 @@
                                 "display_duration": 7,
                                 "animation": {
                                     "element_id": "animation_22",
-                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQxNWplOHlpb3R2N3FpcXk3MHUzd2NtaDJ0a3VrbTh1ZDJram1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DaHY0oBKfyonubYE0J/giphy.gif"
+                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQxNWplOHlpb3R2N3FpcXk3MHUzd2NtaDJ0a3VrbTh1ZDJram1weiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DaHY0oBKfyonubYE0J/giphy.gif",
+                                    "name": "frog"
                                 }
                             }
                         },
@@ -89,7 +90,7 @@
                                 "node_uuid": "uuid1",
                                 "film": {
                                     "element_id": "film1",
-                                    "film_url": "https://marmotech.github.io/test/dailyshorts/video/crab.mp4"
+                                    "film_url": "https://hcc2k.github.io/test/dailyshorts/video/crab.mp4"
                                 },
                                 "display_duration": 6.5
                             }
@@ -201,7 +202,8 @@
                                 "display_duration": 5.0,
                                 "animation": {
                                     "element_id": "animation_23",
-                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZibjRkcXNlc2w2MW9sYXN0eDdqbGt4N2F2enprb3FvOGE0bWRqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hM4OekkycahSas09bD/giphy.gif"
+                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZibjRkcXNlc2w2MW9sYXN0eDdqbGt4N2F2enprb3FvOGE0bWRqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hM4OekkycahSas09bD/giphy.gif",
+                                    "name", "Jellyfish"
                                 }
                             }
                         }
