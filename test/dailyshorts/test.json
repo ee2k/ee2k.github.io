@@ -13,7 +13,7 @@
                         "item_play_id": "play1",
                         "music": {
                             "element_id": "music1",
-                            "music_url": "https://hcc2k.github.io/test/dailyshorts/audio/after%20grown%20up.m4a",
+                            "music_url": "https://ee2k.github.io/test/dailyshorts/audio/after%20grown%20up.m4a",
                             "music_name": "after grown up",
                             "music_info": ""
                         },
@@ -90,7 +90,7 @@
                                 "node_uuid": "uuid1",
                                 "film": {
                                     "element_id": "film1",
-                                    "film_url": "https://hcc2k.github.io/test/dailyshorts/video/crab.mp4"
+                                    "film_url": "https://ee2k.github.io/test/dailyshorts/video/crab.mp4"
                                 },
                                 "display_duration": 6.5
                             }
