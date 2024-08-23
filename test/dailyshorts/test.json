@@ -211,6 +211,50 @@
                     ]
                 }
             ]
+        },
+        {
+            "node_uuid": "node_uuid_playlist_2",
+            "playlist_id": "playlist_2",
+            "playlist_content": [
+                {
+                    "node_uuid": "node_uuid_miniList3",
+                    "minilist_id": "miniList3",
+                    "minilist_content_type": "intersession",
+                    "minilist_content": [
+                        {
+                            "type": "poem",
+                            "data": {
+                                "item_record_id": "record4",
+                                "node_uuid": "uuid4",
+                                "poem_text_fontfamily": "Courier",
+                                "poem_text_fontsize": 14.0,
+                                "poem_author_fontfamily": "Georgia",
+                                "poem_author_fontsize": 10.0,
+                                "poem_display_style": "landscape_center",
+                                "display_duration": 3.0,
+                                "poem": {
+                                    "element_id": "poem3",
+                                    "poem_text": "Part III\n\nThe woods are lovely, dark and deep,\nBut I have promises to keep.",
+                                    "poem_author": "Robert Frost"
+                                }
+                            }
+                        },
+                        {
+                            "type": "animation",
+                            "data": {
+                                "item_record_id": "animation_record4",
+                                "node_uuid": "animation_uuid4",
+                                "display_duration": 5.0,
+                                "animation": {
+                                    "element_id": "animation_24",
+                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZwMTN1ZDJvOHJpcGhkdjBiczlhcWZiZDB6ZXZkcTRvMnU1Zjc4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uk4Va5MkRp2bfkOk6f/giphy.gif",
+                                    "name": "Jellyfish"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
