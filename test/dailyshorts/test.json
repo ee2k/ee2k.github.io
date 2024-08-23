@@ -269,6 +269,24 @@
                                     "poem_author": "Robert Frost"
                                 }
                             }
+                        },
+                        {
+                            "type": "poem",
+                            "data": {
+                                "item_record_id": "record42",
+                                "node_uuid": "uuid42",
+                                "poem_text_fontfamily": "Courier",
+                                "poem_text_fontsize": 14.0,
+                                "poem_author_fontfamily": "Georgia",
+                                "poem_author_fontsize": 10.0,
+                                "poem_display_style": "landscape_center",
+                                "display_duration": 3.0,
+                                "poem": {
+                                    "element_id": "poem33",
+                                    "poem_text": "Part III end\n\nThe woods are lovely, dark and deep,\nBut I have promises to keep.",
+                                    "poem_author": "Robert Frost"
+                                }
+                            }
                         }
                     ]
                 }
