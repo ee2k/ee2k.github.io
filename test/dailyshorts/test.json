@@ -90,7 +90,8 @@
                                 "node_uuid": "uuid1",
                                 "film": {
                                     "element_id": "film1",
-                                    "film_url": "https://ee2k.github.io/test/dailyshorts/video/crab.mp4"
+                                    "film_url": "https://ee2k.github.io/test/dailyshorts/video/crab.mp4",
+                                    "film_name": "crab"
                                 },
                                 "display_duration": 6.5
                             }
