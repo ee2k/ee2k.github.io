@@ -19,7 +19,8 @@
         {"quality": "480p", "status": "ready", "bitrate": 700000},
         {"quality": "1080p", "status": "available_on_demand", "bitrate": 3000000},
         {"quality": "1440p", "status": "available_on_demand", "bitrate": 9000000}
-      ]
+      ],
+      "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality"
     }
   }
 }
