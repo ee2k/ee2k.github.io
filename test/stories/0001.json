@@ -3,8 +3,8 @@
   "data": {
     "video": {
       "id": "0001",
-      "title": "Amazing Drone Footage of New Zealand",
-      "description": "Breathtaking aerial views of New Zealand's diverse landscapes...",
+      "title": "Crab",
+      "description": "riveting short by birdbox studio",
       "duration": 1205,
       "view_count": 0,
       "like_count": 0,
@@ -16,9 +16,7 @@
         "expires_at": "2024-09-10T16:30:00Z"
       },
       "video_qualities": [
-        {"quality": "480p", "status": "ready", "bitrate": 700000},
-        {"quality": "1080p", "status": "available_on_demand", "bitrate": 3000000},
-        {"quality": "1440p", "status": "available_on_demand", "bitrate": 9000000}
+        {"quality": "360p", "status": "ready", "bitrate": 700000}
       ],
       "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality"
     }

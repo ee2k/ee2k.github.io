@@ -84,14 +84,14 @@
                             }
                         },
                         {
-                            "type": "film",
+                            "type": "video",
                             "data": {
                                 "item_record_id": "record1",
                                 "node_uuid": "uuid1",
-                                "film": {
+                                "video": {
                                     "element_id": "film1",
-                                    "film_url": "https://ee2k.github.io/test/dailyshorts/video/crab.mp4",
-                                    "film_name": "crab"
+                                    "video_vid": "https://ee2k.github.io/test/stories/0001.json",
+                                    "video_name": "crab"
                                 },
                                 "display_duration": 6.5
                             }
