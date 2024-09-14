@@ -12,13 +12,16 @@
       "is_live": false,
       "age_restricted": false,
       "playback": {
-        "hls_url": "https://test.dotest.fun/hls/0001-1000/video_0001/master.m3u8",
+        "hls_url": "https://test.dotest.fun/hls/audio/0001-1000/audio_0001mp3/master.m3u8",
         "expires_at": "2024-09-10T16:30:00Z"
       },
       "audio_qualities": [
-        {"quality": "128k", "status": "ready", "bitrate": 700000}
+        {"quality": "128k", "status": "ready", "bitrate": 128000}
       ],
-      "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality"
+      "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality",
+      "artist": "Artist Name",
+      "album": "Album Name",
+      "release_date": "2023-05-15"
     }
   }
 }
