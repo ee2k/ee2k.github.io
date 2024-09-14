@@ -1,0 +1,24 @@
+{
+  "status": "success",
+  "data": {
+    "audio": {
+      "id": "0001",
+      "title": "after grown up",
+      "description": "after grown up, nice song",
+      "duration": 1205,
+      "play_count": 0,
+      "like_count": 0,
+      "dislike_count": 0,
+      "is_live": false,
+      "age_restricted": false,
+      "playback": {
+        "hls_url": "https://test.dotest.fun/hls/0001-1000/video_0001/master.m3u8",
+        "expires_at": "2024-09-10T16:30:00Z"
+      },
+      "audio_qualities": [
+        {"quality": "128k", "status": "ready", "bitrate": 700000}
+      ],
+      "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality"
+    }
+  }
+}
