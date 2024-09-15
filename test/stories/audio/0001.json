@@ -19,9 +19,7 @@
         {"quality": "128k", "status": "ready", "bitrate": 128000}
       ],
       "quality_generation_endpoint": "https://api.example.com/videos/video_id/generate-quality",
-      "artist": "Artist Name",
-      "album": "Album Name",
-      "release_date": "2023-05-15"
+      "artist": "Artist Name"
     }
   }
 }
