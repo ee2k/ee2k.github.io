@@ -13,9 +13,8 @@
                         "item_play_id": "play1",
                         "music": {
                             "element_id": "music1",
-                            "music_url": "https://ee2k.github.io/test/dailyshorts/audio/after%20grown%20up.m4a",
-                            "music_name": "after grown up",
-                            "music_info": ""
+                            "audio_meta_id": "https://ee2k.github.io/test/stories/audio/0001.json",
+                            "audio_name": "after grown up"
                         },
                         "music_delay": 8
                     },
@@ -30,7 +29,6 @@
                                 "item_record_id": "record01",
                                 "node_uuid": "uuid3",
                                 "poem_text_fontfamily": "Courier",
-                                "poem_text_fontsize": 14.0,
                                 "poem_text_fontsize": 14.0,
                                 "poem_author_fontfamily": "Georgia",
                                 "poem_author_fontsize": 10.0,
@@ -90,7 +88,7 @@
                                 "node_uuid": "uuid1",
                                 "video": {
                                     "element_id": "film1",
-                                    "video_vid": "https://ee2k.github.io/test/stories/0001.json",
+                                    "video_meta_id": "https://ee2k.github.io/test/stories/video/0001.json",
                                     "video_name": "crab"
                                 },
                                 "display_duration": 6.5
