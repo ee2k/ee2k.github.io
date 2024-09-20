@@ -88,7 +88,7 @@
                                 "node_uuid": "uuid1",
                                 "video": {
                                     "element_id": "film1",
-                                    "video_meta_id": "https://ee2k.github.io/test/stories/video/0001.json",
+                                    "video_meta_url": "https://ee2k.github.io/test/stories/video/0001.json",
                                     "video_name": "crab"
                                 },
                                 "display_duration": 6.5
