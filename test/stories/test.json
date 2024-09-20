@@ -13,7 +13,7 @@
                         "item_play_id": "play1",
                         "music": {
                             "element_id": "music1",
-                            "audio_meta_id": "https://ee2k.github.io/test/stories/audio/0001.json",
+                            "audio_meta_url": "https://ee2k.github.io/test/stories/audio/0001.json",
                             "audio_name": "after grown up"
                         },
                         "music_delay": 8
