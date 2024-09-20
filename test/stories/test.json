@@ -19,7 +19,7 @@
                         "music_delay": 8
                     },
                     "loop_setting": {
-                        "display_order": "loop_shuffle",
+                        "display_order": "loop_sequential",
                         "duration": 117
                     },
                     "minilist_content": [
