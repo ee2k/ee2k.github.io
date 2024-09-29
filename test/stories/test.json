@@ -5,19 +5,60 @@
             "playlist_id": "playlist_1",
             "playlist_content": [
                 {
+                    "node_uuid": "node_uuid_miniList00",
+                    "minilist_id": "miniList1",
+                    "minilist_content_type": "intersession",
+                    "minilist_content": [
+                        {
+                            "type": "poem",
+                            "data": {
+                                "item_record_id": "record3",
+                                "node_uuid": "uuid3",
+                                "poem_text_fontfamily": "Courier",
+                                "poem_text_fontsize": 14.0,
+                                "poem_author_fontfamily": "Georgia",
+                                "poem_author_fontsize": 10.0,
+                                "poem_display_style": "landscape_center",
+                                "display_duration": 3.0,
+                                "poem": {
+                                    "element_id": "poem2",
+                                    "poem_text": "Test\n\nTwo roads diverged in a yellow wood, And sorry I could not travel both...",
+                                    "poem_author": "Robert Frost"
+                                }
+                            }
+                        },
+                        {
+                            "type": "video",
+                            "data": {
+                                "item_record_id": "record1",
+                                "node_uuid": "uuid1",
+                                "video": {
+                                    "element_id": "film0002",
+                                    "video_meta_url": "https://ee2k.github.io/test/stories/video/0002.json",
+                                    "video_name": "short film"
+                                },
+                                "display_duration": 6.5
+                            }
+                        },
+                        {
+                            "type": "animation",
+                            "data": {
+                                "item_record_id": "animation_record3",
+                                "node_uuid": "animation_uuid3",
+                                "display_duration": 5.0,
+                                "animation": {
+                                    "element_id": "animation_23",
+                                    "animation_url": "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZibjRkcXNlc2w2MW9sYXN0eDdqbGt4N2F2enprb3FvOGE0bWRqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hM4OekkycahSas09bD/giphy.gif",
+                                    "name": "Jellyfish"
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
                     "node_uuid": "node_uuid_miniList1",
                     "minilist_id": "miniList1",
                     "minilist_content_type": "film",
-                    "music": {
-                        "node_uuid": "uuid5",
-                        "item_play_id": "play1",
-                        "music": {
-                            "element_id": "music1",
-                            "audio_meta_url": "https://ee2k.github.io/test/stories/audio/0001.json",
-                            "audio_name": "after grown up"
-                        },
-                        "music_delay": 8
-                    },
                     "loop_setting": {
                         "display_order": "loop_sequential",
                         "duration": 117
